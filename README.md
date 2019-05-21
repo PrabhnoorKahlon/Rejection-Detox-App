@@ -1,4 +1,4 @@
-#Rejection Detox: an App created by me, ironically spun by a rejection
+<h1>Rejection Detox: an App created by me, ironically spun by a rejection</h1>
 
 Now rejection is something when the HR starts the conversation with "You are very talented but.....".This statement is apparently used to make the student feel better but irrespective of the way you are rejected or whether you deserved it or not ....it is going to break your heart.
 
